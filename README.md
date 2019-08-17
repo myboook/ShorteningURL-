@@ -15,12 +15,12 @@ Shortening Service
  
  
 3. 프로젝트 빌드, 실행방법    
- 1.)새로운 workspace생성 
- 2.)폴더안에 있는 KwonSoonKyu 파일과 KwonSoonKyu_Server 파일을 각각 이클립스에서 Import 시켜줍니다.  
+ 1.)새로운 workspace생성   
+ 2.)폴더안에 있는 KwonSoonKyu 파일과 KwonSoonKyu_Server 파일을 각각 이클립스에서 Import 시켜줍니다.    
     (General -> Existing Projects into Workspace -> select archive file -> KwonSoonKyu, KwonSoonKyu_Server 선택 후 Finish)    
- 3.)폴터안에 있는 Tomcat 파일을 C:\Tomcat 경로로 이동시켜줍니다. 
- 4.)폴더안에 있는 KwonSql 파일을 C:\ 경로로 이동시켜줍니다. 
- 5.)WebContent -> Main -> Shortening_Url.jsp를 실행합니다.
+ 3.)폴터안에 있는 Tomcat 파일을 C:\Tomcat 경로로 이동시켜줍니다.   
+ 4.)폴더안에 있는 KwonSql 파일을 C:\ 경로로 이동시켜줍니다.   
+ 5.)WebContent -> Main -> Shortening_Url.jsp를 실행합니다.   
 
 
 
