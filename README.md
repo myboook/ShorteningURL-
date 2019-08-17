@@ -14,7 +14,7 @@ Shortening Service
   4.) URL_SHORT의 값은 IDX를 [a~z],[A~Z],[0~9]를 통하여 62진수로 Encoding 하여 넣어줍니다.
  
  
-3. 프로젝트 빌드, 실행방법
+3. 프로젝트 빌드, 실행방법    
  1.)새로운 workspace생성 
  2.)폴더안에 있는 KwonSoonKyu 파일과 KwonSoonKyu_Server 파일을 각각 이클립스에서 Import 시켜줍니다.  
     (General -> Existing Projects into Workspace -> select archive file -> KwonSoonKyu, KwonSoonKyu_Server 선택 후 Finish)    
